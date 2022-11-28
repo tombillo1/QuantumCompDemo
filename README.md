@@ -1,0 +1,3 @@
+# QuantumPresentation
+
+conda install qiskit
